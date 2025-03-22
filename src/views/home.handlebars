@@ -1,0 +1,33 @@
+    <h1> BIENVENIDO !!! {{user.first_name - last_name}} a <strong> SHOP-CARS </strong></h1>
+    <h2 class="text-center">PRODUCTOS</h2>
+ <form action="/api/session/logout" method="POST">
+    <button type="submit">Cerrar sesion</button>
+      </form>
+    <button onclick="/api/products"> PRODUCTOS </button>
+    <div class="row">
+        {{#each listadeproductos}}
+        <div class="col">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <i class=""></i> Code: {{this.code}}
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{this.title}}</h5>
+                    <ul class="list">
+                        <li><i class="bi"></i> ID: {{this.id}}</li>
+                        <li><i class="bi"></i> Description: {{this.description}}</li>
+                        <li><i class="bi bi-currency-dollar"></i> Price: ${{this.price}}</li>
+                        <li><i class="bi bi-grid"></i> Category: {{this.category}}</li>
+                        <li><i class=""></i> Stock: {{this.stock}}</li>
+                        <li>
+                            <i class="image"></i> Image: <img src="{{this.thumbnail}}" alt="{{this.title}}"
+                                class="img">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+
+   

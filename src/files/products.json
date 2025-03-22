@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "title": "Kit accesorios Lady",
+    "description": "Marca LadyCar, Modelo Women Personaje Rosa, Nombre del diseño: Mujer, Unidades por envase: 5,cubre palanca, cubre espejo, cubre volante: 38 cm de diámetro (medida exterior del volante), Material: simil cuero, tamaño: Universal",
+    "code": "1",
+    "price": 15900,
+    "status": "true",
+    "stock": 30,
+    "category": "decoracion",
+    "thumbnail": "https://i.postimg.cc/bGMxvV6Q/kit-accesorios-auto.webp' alt='kit-accesorios-auto"
+  },
+  {
+    "id": "2",
+    "title": "Moldura para Interior",
+    "description": "Nombre del diseño:kitvolantefix, MOLDURA: Chevrolet, Ford, Nissan, Vw, Renault, Peugeot, Audi, BMW, Mercedes Benz, Toyota, Jeep, Alfa Romeo, lifan, Geely, Honda, fiat,Modelo: Universal fix,Unidades por envase: 1",
+    "code": "2",
+    "price": 2550,
+    "status": "true",
+    "stock": 30,
+    "category": "decoracion",
+    "thumbnail": "https://i.postimg.cc/LhV3HBSF/moldura-para-interior.webp alt='moldura-para-interior'"
+  },
+  {
+    "id": "3",
+    "title": " Juego de Alfombra",
+    "description": "marca: DelMoro,modelo: tx2020,Tipo de producto para AutoTipo de vehículo Auto, Camioneta, Cantidad de piezas: 3,material: Goma,color: negro",
+    "code": "3",
+    "price": 19949,
+    "status": "true",
+    "stock": 30,
+    "category": "decoracion",
+    "thumbnail": "https://i.postimg.cc/JyJjSjxg/juego-de-alfombra.webp alt=juego-de-alfombra"
+  },
+  {
+    "id": "4",
+    "title": "Luces Leds",
+    "description": "cantidad:2,color: verde,azul,impermeable: a prueba de golpes, alimentación con 3 baterías AG10, tamaño: 7cm x 1,7 cm x 1,7 cm.",
+    "code": "4",
+    "price": 39700,
+    "status": "true",
+    "stock": 30,
+    "category": "decoracion",
+    "thumbnail": "https://i.postimg.cc/SjVc0SLy/Luces-Leds.jpg border='0' alt='Luces-Leds"
+  },
+  {
+    "id": "5",
+    "title": "Cubre Zocalo",
+    "description": "cubre zocalo Carbono Ford focus 3 logo resinado,Marca: Ford, material: Vinilo Simil Carbono Negro, Juego de 4 cubre zocalos vinilicos, Autoadhesivas, evita rayones y protege la pintura original,los cubre zócalos de BSK Argentina,las insignias son resinadas a color con adhesivos 3M (MADE IN GERMANY), de gran pegamento y durabilidad. Ambos hacen que tu auto esté protegido tanto al bajar como al subir y dan un aspecto detallado de tu vehículo, manteniendo la linea original sin agregados visualmente agresivos",
+    "code": "5",
+    "price": 2990,
+    "status": "true",
+    "stock": 30,
+    "category": "proteccion",
+    "thumbnail": "https://i.postimg.cc/DWqbxny3/cubre-zocalo.webp border='0' alt='cubre-zocalo"
+  },
+  {
+    "id": "6",
+    "title": "Inflador Portatil",
+    "description": "Marca:Dialsec, Modelo:DH03usb, Accesorios incluidos:Si, Función de desinflar:No, Certificación: CE Voltaje: 12V Presión Max: 101-150Psi, Modelo: dh03usb, Tipo: wireless con batería de 6000mah, Aplicación: Autos, Moto, Bicicleta, Pelota Diámetro del cilindro: Cilindro 15 Corriente Max: 12v 2A, Color: Negro, Unidades de presión para seleccionar: BAR, PSI, KPA, Power: 65W, Tamaño: 21X15X6 cm, Peso: 1.300 kg",
+    "code": "6",
+    "price": 42020,
+    "status": "true",
+    "stock": 30,
+    "category": "proteccion",
+    "thumbnail": "https://i.postimg.cc/QV6K46sC/inflador-portaril.jpg alt=inflador-portaril"
+  },
+  {
+    "id": "7",
+    "title": "Juego Tazas Ruedas",
+    "description": "tazas decorativas,marca: safari, medida: 12,colores: varios,cantidad: 4",
+    "code": "7",
+    "price": 16970,
+    "status": "true",
+    "stock": 30,
+    "category": "decoracion",
+    "thumbnail": "https://i.postimg.cc/YGrj8FsQ/tazas-decorativas.webp' alt='tazas-decorativas"
+  },
+  {
+    "id": "8",
+    "title": "Cepillo con Mango",
+    "description": "cepillo limpieza,marca: eshoop Bessia,material:microfibra maxima limpieza premium, cantidad 1, talle: xl, Remueve polvo y demás suciedades. - Esperamos poder verlo pronto en nuestro establecimiento. Estamos en el predio de Carrefour Barrio Jardin, de lunes a domingos de 8,30 a 22hs. . Ofrecemos servicio de Gomeria, Bateria, Lubricentro, Tren Delantero, Amortiguadores, Frenos, Audio",
+    "code": "8",
+    "price": 2900,
+    "status": "true",
+    "stock": 30,
+    "category": "limpieza",
+    "thumbnail": "https://i.postimg.cc/vgz2F7BX/cepillo-con-mango.webp alt=cepillo-con-mango"
+  },
+  {
+    "id": "9",
+    "title": "Manopla para Limpieza",
+    "description": "Laffite guante con rastas de microfibra, material: microfibra, marca:fibralimp, piezas:1, color: verde, rojo ,gris.Ideal para vehículo, motos o el hogar,las rastas largas las cuales atrapan el polvo minimizando riesgo de rayado, evita las marcas de agua,barre con la suciedad sin rayar las superficies,contiene puño elastizado muy reforzado, No deja rastros, ni emite pelusas, sino que también lo hace sin dañar la pintura.Ideal para lavado premium.",
+    "code": "9",
+    "price": 2700,
+    "status": "true",
+    "stock": 30,
+    "category": "limpieza",
+    "thumbnail": "https://i.postimg.cc/xkgL96vk/manopla-lavado.webp alt= manopla-lavado"
+  },
+  {
+    "id": "10",
+    "title": "Gancho para Remolque",
+    "description": "gancho remolque: delantero, trasero, marca:BENEN, material: acero reforzado, color: rojo, azul, cromado",
+    "code": "10",
+    "price": 10000,
+    "status": "true",
+    "stock": 30,
+    "category": "accesorios",
+    "thumbnail": "https://i.postimg.cc/WdnfYV5X/gancho-remolque.jpg alt=gancho-remolque"
+  },
+  {
+    "id": "101",
+    "title": "rueda",
+    "description": "una",
+    "price": "456788",
+    "status": "true",
+    "category": "accesorios",
+    "thumbnail": "",
+    "code": "SDE123",
+    "stock": "30"
+  },
+  {
+    "id": "1011",
+    "title": "llanta aleacion",
+    "description": "llanta de acero fundido ",
+    "price": "450000",
+    "status": "true",
+    "category": "respuestos",
+    "thumbnail": "",
+    "code": "12",
+    "stock": "20"
+  },
+  {
+    "id": "id11",
+    "title": "opticas",
+    "description": "opticas para autos ",
+    "price": "6040403",
+    "category": "accesorios",
+    "thumbnail": "opticas.jpg",
+    "code": "45",
+    "stock": "46"
+  },
+  {
+    "title": "alternador",
+    "description": "alternador para auto de 12 volts",
+    "price": "54380",
+    "category": "repuestos",
+    "thumbnail": "alter.jpg",
+    "code": "543",
+    "stock": "30"
+  },
+  {
+    "title": "luces",
+    "description": "luces leds",
+    "price": "45",
+    "category": "accesorios",
+    "thumbnail": "luces.jpg",
+    "code": "34",
+    "stock": "44"
+  }
+]

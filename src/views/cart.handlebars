@@ -1,0 +1,19 @@
+<h1>Carrito de Compras</h1>  
+
+<div>  
+    {{#each products}}  
+        <div class="product">  
+            <h2>{{this.name}}</h2>  
+            <p>Precio: {{this.price}}</p>  
+            <p>Cantidad: {{this.quantity}}</p>  
+        </div>  
+    {{/each}}  
+</div>  
+
+<button onclick="emptyCart()">Vaciar carrito</button>  
+
+<script>  
+    function emptyCart() {  
+        
+    }  
+</script>

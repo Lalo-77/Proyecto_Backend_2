@@ -1,0 +1,120 @@
+body{
+    background-image: linear-gradient(45deg, #85FFBD 0%, #7debff 100%);
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #dc3545;
+    background-color: #f8f9fa;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header div p {
+    margin: 10px;
+}
+
+header div a {
+    background-color:chartreuse;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+}
+.row {
+    display: grid;
+    flex-direction: row;
+}
+.col{
+    display: flex;
+    width: 2000px;
+}
+#list-products{
+    margin-left: 40px;
+}
+
+/** ESTILOS PARA LOS FORMULARIOS: **/
+
+form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+form label {
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+form input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    font-size: 16px;
+}
+#formProduct{
+    width: 100%;
+} 
+button {
+    background-color:cornflowerblue;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color:burlywood;
+}
+body {
+    background-color: white; 
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.3s;
+    background: linear-gradient(135deg, #3494e6, #ca4688);  
+    width: 1000px;
+    display:grid;
+    flex-direction: row;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff; 
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+.titulo{
+    font-size: 30px;
+}
+.list-products{
+    display:grid;
+    flex-direction:row;
+}
+.card.title{
+    font-size: 50px;
+}
+.row{
+    margin-left: 20px;
+}

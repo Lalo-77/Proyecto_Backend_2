@@ -1,0 +1,28 @@
+<h1>Productos</h1>  
+
+<div>  
+    {{#each products}}  
+        <div class="product">  
+            <h2>{{this.name}}</h2>  
+            <p>{{this.description}}</p>  
+            <p>Precio: {{this.price}}</p>  
+            <p>Categoria: {{this.category}}</p>  
+            <a href="/products/{{this._id}}" class="btn">Ver detalles</a>  
+            <button class="add-to-cart" data-id="{{this._id}}">Agregar al carrito</button>  
+        </div>  
+    {{/each}}  
+</div>  
+
+<div class="pagination">  
+    <a href="?page={{previousPage}}">Previous</a>  
+    <a href="?page={{nextPage}}">Next</a>  
+</div>  
+
+<script>  
+    document.querySelectorAll('.add-to-cart').forEach(button => {  
+        button.addEventListener('click', function() {  
+            const productId = this.getAttribute('data-id');  
+          
+        });  
+    });  
+</script>
