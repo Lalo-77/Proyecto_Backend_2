@@ -1,12 +1,8 @@
 Mi proyecto de un ecommerce: 
  
 
-En este proyecto desarrolle una aplicación para e-commerce shop- Cart es una aplicacion 
-de productos para el mantenimiento de los vehiculos, en el cual un cliente adquiere los productos que le interesan
-para poder darle mantenimiento al propio,  en el cual mediante su cuenta personal puede comprar on-line y recibir 
-los productos en su domicilio si lo decea y tambien acceder a servicios y hasta garage en caso que no tenga,
-caracteristicas son las siguientes; profesionalizando su arquitectura, con escalabilidad e implementando un
-sistema completo de autorización y autenticación.
-
+Este es un proyecto de Diseño y Arquitectura Backend: Es un e-commerce Shop-Cart es una aplicacion 
+de productos para el mantenimiento y accesorios para vehiculos, los que estaran conectados en una base de datos en la nube.
+Las herramientas que se usaron es Nodejs, Express, Router, Handlebars, Websockets, Mongoose, Cookies, Sessions, Autenticacion con bcrypt y Jwt, Passport, Mongo-Connect, dotenv, y la base de datos Mongodb. 
 El servidor se basa en un diseño de capas, orientado a MVC con una implementación de persistencia no relacional
 mediante MongoDB. hice uso de muchas herramientas.
